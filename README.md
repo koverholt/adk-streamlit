@@ -38,6 +38,6 @@ A preconfigured Streamlit frontend for
 
 6. Try various prompts!
 
-> What's the weather in New York?
-> What's the weather in Tokyo?
-> What's the weather in Phoenix?
+- > What's the weather in New York?
+- > What's the weather in Tokyo?
+- > What's the weather in Phoenix?
