@@ -1,6 +1,7 @@
 # adk-streamlit
 
-A preconfigured Streamlit frontend for Agent Development Kit.
+A preconfigured Streamlit frontend for
+[Agent Development Kit](https://github.com/google/adk-python).
 
 ![](images/adk-streamlit.png)
 
